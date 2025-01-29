@@ -22,7 +22,6 @@
 		{
 			"Name": "NaniteDisplacedMesh",
 			"Enabled": true
-<<<<<<< Updated upstream
 		},
 		{
 			"Name": "CommonUI",
@@ -31,8 +30,6 @@
 		{
 			"Name": "CineCameraRigs",
 			"Enabled": true
-=======
->>>>>>> Stashed changes
 		}
 	]
 }
