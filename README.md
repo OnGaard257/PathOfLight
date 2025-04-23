@@ -1,5 +1,5 @@
 # PathOfLight
-Sneaking carefully through a shadowed chapel evokes a sense of vulnerability and apprehension
+Sneaking carefully through a shadowed Cathedral evokes a sense of vulnerability and apprehension
 Movement - WASD or Left Stick
 Look Around - Mouse or Right Stick
 Dash - Space or B Button
