@@ -6,5 +6,6 @@ Dash - Space or B Button
 Crouch - Shift or Left Shoulder
 Stun - F or Right Shoulder
 Throw - R or Right Trigger
+Shield - Q or Left Trigger
 Interact - E or A Button
 Pause - Esc or P or Right Special Button
